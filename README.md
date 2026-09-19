@@ -1,7 +1,11 @@
 # 👻 Pacman: Search Algorithms
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Search_Algorithms-FF6F00?style=for-the-badge)
+![AI](https://img.shields.io/badge/Search_Algorithms-FF6F00?style=for-the-badge)  
+
+<div align="center">
+  <img src="PacMan.png" alt="PacMan">
+</div>
 
 ## 📌 Executive Summary
 This repository contains the complete source code and algorithmic logic for an intelligent Pacman agent capable of autonomous pathfinding and real-time adversarial decision-making. The objective of this project is to demonstrate the rigorous application of theoretical computer science concepts—specifically graph traversal, state-space search, and game theory—within a dynamic grid environment.
